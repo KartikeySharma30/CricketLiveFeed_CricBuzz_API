@@ -26,18 +26,17 @@
   
   ## Usage
   ### Requirements
-  1.Python 3.x
-  2.Requests library (pip install requests)
-  3.PrettyPrinter library (part of the Python standard library)
+  - Python 3.x
+  - Requests library (pip install requests)
+  - PrettyPrinter library (part of the Python standard library)
 
   ### How to Run
-  1.Clone the repository or download the source code.
-  2.Install the required libraries using pip:
+  - Clone the repository or download the source code.
+  - Install the required libraries using pip:
 
-  
-    pip install requests
+        pip install requests
 
-    python cricket_data_fetcher.py
+        python cricket_data_fetcher.py
   
   ### Navigation
   
