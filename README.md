@@ -16,9 +16,9 @@
   **Upcoming Matches**: Displays upcoming matches categorized into International, League, Domestic, and Women’s cricket. Provides match descriptions, formats, IDs, series names, statuses, teams, and venues.
   
   ### News
-    - Fetches and displays recent cricket news articles, including context, summaries, headlines, news IDs, and sources.
+  - Fetches and displays recent cricket news articles, including context, summaries, headlines, news IDs, and sources.
   
-  ###ICC Rankings
+  ### ICC Rankings
   **1:Batsman:** Shows rankings for batsmen, including rank, name, country, average, rating, and trend.
   **2:Bowler:** Shows rankings for bowlers, including rank, name, country, average, rating, and trend.
   **3:All-Rounder:** Shows rankings for all-rounders, including rank, name, country, average, rating, and trend.
@@ -35,9 +35,9 @@
   2.Install the required libraries using pip:
 
   
-    **pip install requests** 
+    pip install requests
 
-    **python cricket_data_fetcher.py**
+    python cricket_data_fetcher.py
   
   ### Navigation
   
